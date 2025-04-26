@@ -1,2 +1,2 @@
-# IconicMemory-VR
-Source code for manuscript "A Virtual Reality Research Paradigm for Iconic Memory Evaluation based on Computational Affection"
+# Visual Memory in VR
+Source code for manuscript "Exploring the Impact of Color and Daytime/Nighttime on Visual Memory in VR Teaching Environments Using Explainable Machine Learning"
